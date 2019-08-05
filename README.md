@@ -2,11 +2,11 @@
 Submission of Application Challenge for CODE University of Applied Sciences 2019
 
 ## Getting Started
-Please find the site files in this repository. A live preview of the site is available on [my website](http://jameshiltonbarber.com/xhuma "Xhuma - A network for everyone, everywhere").
+Please find the site files in the folder 'site'. A live preview of the site is available on [my website](http://jameshiltonbarber.com/xhuma "Xhuma - A network for everyone, everywhere").
 
-Unfortunately, I was not able to finish a complete prototype in the given time frame, but have included the parts I worked on:
-- Custom class implementation of MultipeerConnectivity for iOS in the file ConnectivityManager.swift file
-- Interface Builder files in complete project
+Unfortunately, I was not able to finish a complete prototype in the given time frame, but have included the parts I worked on in the folder 'prototype':
+- Custom class implementation of MultipeerConnectivity for iOS in the file MultipeerConnection.swift file
+- Interface Builder files in complete project (xcode.zip)
 
 With regard to the brief, all information about how and why I chose this project is available at http://jameshiltonbarber.com/xhuma/about/. 
 
